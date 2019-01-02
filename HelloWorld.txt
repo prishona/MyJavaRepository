@@ -1,0 +1,6 @@
+cl;ass HelloWorld{
+
+public static void main()
+{
+Syatem.out.println("HelloWorld")
+}

@@ -1,6 +1,6 @@
 class HelloWorld
 
-    void myMethod(){
+    void welcomeMethod(){
 
         System.out.println("HelloWorld.....!!!");
 }

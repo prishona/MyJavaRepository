@@ -1,6 +1,7 @@
 cl;ass HelloWorld{
 
-public static void main()
+public static void main(String args[])
 {
-Syatem.out.println("HelloWorld")
+Syatem.out.println("HelloWorld.....!!!")
+}
 }
